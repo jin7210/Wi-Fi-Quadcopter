@@ -1,0 +1,15 @@
+~Quadcopter parts~
+1. frame - FPV360 
+2. brushless motors - 4 Emax 935Kv, 2 clockwise, 2 counter-clockwise
+3. ESC - 4 Emax Simonk 30A 2-6S, any 3s ESC
+4. Propeller - graupner propeller 3-blade 10x5, 2 clockwise, 2 counter-clockwise, any 10" propeller
+5. Battery - 2 Lipo battery venom 20C 3S 2100mAh 11.1V, 1 will suffice, any 3S 11.1V battery
+6. Power Distribution Board - included in the frame
+
+~Hardware~
+1. arduino mega 2560
+2. adafruit wifi shield CC3000
+
+~Other parts~
+some wires
+soldering iron
