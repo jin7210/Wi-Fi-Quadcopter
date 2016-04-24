@@ -9,6 +9,7 @@
 ~Hardware~
 1. arduino mega 2560
 2. adafruit wifi shield CC3000
+3. mpu6050 or 9150
 
 ~Other parts~
 some wires
